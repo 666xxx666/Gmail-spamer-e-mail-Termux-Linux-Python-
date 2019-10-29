@@ -1,2 +1,1 @@
-# staary
-jd
+ALL  w install.sh
